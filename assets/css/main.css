@@ -3901,3 +3901,8 @@ input, select, textarea {
 	.gif{
 		width: 100px;
 	}
+
+	p {
+		word-break: break-all;
+		white-space: normal;
+	}
