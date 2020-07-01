@@ -3903,6 +3903,6 @@ input, select, textarea {
 	}
 
 	p {
-		word-break: break-all;
+		word-break: normal;
 		white-space: normal;
 	}
