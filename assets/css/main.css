@@ -2622,7 +2622,7 @@ input, select, textarea {
 	}
 
 		ul.actions li {
-			padding: 0 0 0 1rem;
+			padding: .5rem .5rem .5rem .5rem;
 			vertical-align: middle;
 		}
 
@@ -3897,7 +3897,8 @@ input, select, textarea {
 		background-color: #49fcd4;
 		text-align: center;
 		margin-right: 2%;
-		margin-top: 2%
+		margin-top: 2%;
+	
 	}
 
 	.gif{
